@@ -3,7 +3,7 @@ Welcome to my castle
 "
 while [ 1 ]
 do
-	
+	clear	
 	echo "
 	 /\                /\ 
 	/  \              /  \ 
